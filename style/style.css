@@ -32,12 +32,6 @@
   transform: scale(1.1);
 }
 
-html,
-body {
-  height: 100%;
-  font-family: "Poppins", sans-serif;
-}
-
 img {
   width: 5em;
 }
@@ -105,4 +99,10 @@ main p {
   font-family: "Poppins", sans-serif;
   color: white;
   margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: "Poppins", sans-serif;
 }/*# sourceMappingURL=style.css.map */
