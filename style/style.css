@@ -84,6 +84,9 @@ header a {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
 }
+#ul-container ul li:hover {
+  transform: scale(1.1);
+}
 
 main {
   height: 100%;
